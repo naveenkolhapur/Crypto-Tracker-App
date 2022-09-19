@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/naveenkolhapur/Crypto-Tracker-App/static/css/main.bd44be61.css",
-    "main.js": "/naveenkolhapur/Crypto-Tracker-App/static/js/main.ae6863c7.js",
-    "static/media/Banner.jpg": "/naveenkolhapur/Crypto-Tracker-App/static/media/Banner.e9a624af371573c97c16.jpg",
-    "index.html": "/naveenkolhapur/Crypto-Tracker-App/index.html",
-    "main.bd44be61.css.map": "/naveenkolhapur/Crypto-Tracker-App/static/css/main.bd44be61.css.map",
-    "main.ae6863c7.js.map": "/naveenkolhapur/Crypto-Tracker-App/static/js/main.ae6863c7.js.map"
+    "main.css": "/Crypto-React-App/static/css/main.873da338.css",
+    "main.js": "/Crypto-React-App/static/js/main.ae6863c7.js",
+    "static/media/Banner.jpg": "/Crypto-React-App/static/media/Banner.e9a624af371573c97c16.jpg",
+    "index.html": "/Crypto-React-App/index.html",
+    "main.873da338.css.map": "/Crypto-React-App/static/css/main.873da338.css.map",
+    "main.ae6863c7.js.map": "/Crypto-React-App/static/js/main.ae6863c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd44be61.css",
+    "static/css/main.873da338.css",
     "static/js/main.ae6863c7.js"
   ]
 }
