@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Crypto_Tracker-App/static/css/main.fc37b95f.css",
-    "main.js": "/Crypto_Tracker-App/static/js/main.adf7c664.js",
-    "static/media/Banner.jpg": "/Crypto_Tracker-App/static/media/Banner.e9a624af371573c97c16.jpg",
-    "index.html": "/Crypto_Tracker-App/index.html",
-    "main.fc37b95f.css.map": "/Crypto_Tracker-App/static/css/main.fc37b95f.css.map",
-    "main.adf7c664.js.map": "/Crypto_Tracker-App/static/js/main.adf7c664.js.map"
+    "main.css": "/Crypto-Tracker-App/static/css/main.35a243fd.css",
+    "main.js": "/Crypto-Tracker-App/static/js/main.40feec90.js",
+    "static/media/Banner.jpg": "/Crypto-Tracker-App/static/media/Banner.e9a624af371573c97c16.jpg",
+    "index.html": "/Crypto-Tracker-App/index.html",
+    "main.35a243fd.css.map": "/Crypto-Tracker-App/static/css/main.35a243fd.css.map",
+    "main.40feec90.js.map": "/Crypto-Tracker-App/static/js/main.40feec90.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc37b95f.css",
-    "static/js/main.adf7c664.js"
+    "static/css/main.35a243fd.css",
+    "static/js/main.40feec90.js"
   ]
 }
