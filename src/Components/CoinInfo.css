@@ -1,0 +1,49 @@
+.chart-container{
+    width:100%;
+    display: flex;
+    flex-direction: column!important;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 40px;
+}
+
+.chart-buttons{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.buttons{
+    border: 1px solid #486DFB;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: #486DFB;
+    color: white;
+}
+
+@media only screen and (max-width: 900px){
+    .chart-container{
+        width: 100%;
+        margin-top: 0;
+        padding: 20px;
+        padding-top: 0;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .buttons{
+        width:15px;
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size:16px;
+    }
+}

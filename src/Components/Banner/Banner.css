@@ -1,0 +1,22 @@
+.banner{
+    background-image: url("/public/Banner.jpg"), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.banner-content{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+.tagline{
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

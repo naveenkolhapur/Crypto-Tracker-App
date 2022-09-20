@@ -1,0 +1,44 @@
+.coinstable-container{
+    text-align: center;
+}
+
+.coinstable-heading{
+    margin: 25px!important;
+}
+
+.searchbox{
+    width: 100%;
+    margin-bottom: 20px!important;
+}
+
+.linear-progress{
+    background-color: #486DFB!important;
+}
+
+.table-head{
+    background-color: #486DFB!important;
+}
+
+.table-cell{
+    color:white!important;
+    font-weight: bold!important;
+}
+
+.table-cell-1{
+    display: flex!important;
+    gap: 15!important;
+}
+
+.crypto-names{
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-row:hover{
+    background-color: #171924;
+    cursor: pointer;
+}
+
+.MuiPaginationItem-root{
+    color: #486DFB!important;
+}
